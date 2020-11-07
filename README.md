@@ -1,5 +1,5 @@
 # Spear v1
-## Author: D4RK PH03NIX (KHALID SHA)
+## Rescripted by D4RK PHOENIX
 ## IG: https://instagram.com/cyber_noob_arena
 ## Don't copy this code without giving me the credits :) 
 This script uses some codes of UndeadSec, An0nUD4Y, thelinuxchoice
