@@ -1,6 +1,5 @@
 # Spear v2.0
-## Rescripted by       
-## D4RK PHOENIX
+## Rescripted: D4RK PHOENIX
 ## Tool Must be Installed On Root/Home Directory
 This script uses some codes of UndeadSec, An0nUD4Y, thelinuxchoice for base.
 
