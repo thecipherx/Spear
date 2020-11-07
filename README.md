@@ -1,8 +1,8 @@
 # Spear v1
 ## Rescripted by D4RK PHOENIX
-## IG: https://instagram.com/cyber_noob_arena
-## Don't copy this code without giving me the credits :) 
-This script uses some codes of UndeadSec, An0nUD4Y, thelinuxchoice
+## Tool Must be Installed On Root/Home Directory
+## Don't copy this code without giving me the creits :) 
+This script uses some codes of UndeadSec, An0nUD4Y, thelinuxchoice for base.
 
 
 SPEAR is an Outrageous Tool Which Helps you Perform Specific TASKS ;)
@@ -10,7 +10,7 @@ SPEAR is an Outrageous Tool Which Helps you Perform Specific TASKS ;)
 Included Tools :-
 Phishing Tools
 CamShot Reciever
-Audio Hijacker
+Locationio Hijacker
 Location Capturer
 ```
 ```
