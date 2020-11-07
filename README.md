@@ -10,12 +10,14 @@ SPEAR is an Outrageous Tool Which Helps you Perform Specific TASKS ;)
 Included Tools :-
 Phishing Tools
 CamShot Reciever
-Locationio Hijacker
+Audio Hijacker
+Clipboard Capturer
 Location Capturer
 ```
 ```
 Working Medium:
 # Port Forwarding using Ngrok
+# Serveo (Currently Not Working)
 ```
 ## Legal disclaimer:
 Usage of Spear for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
@@ -25,7 +27,12 @@ Usage of Spear for attacking targets without prior mutual consent is illegal. It
 git clone https://github.com/thecipherx/Spear
 cd Spear
 bash requests.sh
-bash spear.sh
+```
+```
+After Installation;
+You can Start Spear Tool From Any Directory.
+For Starting Tool, 
+Type "Speartool"
 ```
 ```
 Important Notes:
