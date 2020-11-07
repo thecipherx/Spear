@@ -1,4 +1,4 @@
-# Spear v1
+# Spear v2.0
 ## Rescripted by D4RK PHOENIX
 ## Tool Must be Installed On Root/Home Directory
 ## Don't copy this code without giving me the creits :) 
