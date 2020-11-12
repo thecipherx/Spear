@@ -38,7 +38,7 @@ Important Notes:
 #Tool Must be installed in root folder.
 # MUST use as SUDO in non-Android Devices
 ```
-# Tool Optimized For Termux
+# Tool Optimized For Android Termux
 
 
 
